@@ -1,0 +1,16 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+.name {
+    text-align: center;
+}
+.picture {
+    padding-left: 10px;
+}
+.about{
+    display: flex;
+}
+.words {
+    padding-right: 10%;
+}
